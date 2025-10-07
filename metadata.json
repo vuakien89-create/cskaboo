@@ -1,0 +1,5 @@
+{
+  "name": "Tạo kịch bản bài giảng V1 ( thử nghiệm)",
+  "description": "Một ứng dụng sử dụng AI để tạo kịch bản thuyết trình chi tiết cho giáo viên dựa trên kế hoạch bài dạy của họ, bao gồm chủ đề, cấp lớp, mục tiêu và giọng điệu mong muốn.",
+  "requestFramePermissions": []
+}
